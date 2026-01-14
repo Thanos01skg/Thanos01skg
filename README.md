@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanasis Tziotzios</h1>
 <h3 align="center">A passionate industrial engineer from Greece</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Thanos01skg?tab=projects](https://github.com/Thanos01skg?tab=projects)
+- 👨‍💻 All of my projects are available at [https://github.com/Thanos01skg?tab=projects](https://github.com/Thanos01skg?tab=repositories)
 
 - 📫 How to reach me **thanasistziotzios.engin@gmail.com**
 
